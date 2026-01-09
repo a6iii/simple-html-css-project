@@ -1,5 +1,9 @@
 Project Title
-  Centered Image Webpage using HTML & CSS
+
+
+ Centered Image Webpage using HTML & CSS
+
+  
 Project Description
    This project is a simple static webpage created using HTML and CSS.
   The webpage displays an image with a name, centered perfectly on the screen.

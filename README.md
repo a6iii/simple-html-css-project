@@ -39,21 +39,25 @@ HTML Explanation
 CSS Explanation
 
    Body Styling
+   
 display: flex is used to enable Flexbox.
 justify-content: center and align-items: center center the content horizontally and vertically.
 height: 100vh makes the content fill the full screen height.
 A light green background color is applied.
 
    Image Styling
+   
 Fixed image width is set for consistency.
 border-radius creates rounded corners.
 box-shadow adds depth to the image.
 transition enables smooth animation.
 
     Hover Effect
+    
 transform: scale(1.05) slightly zooms the image when hovered.
 
     Text Styling
+    
 The name is styled using font size and color to match the design.
 Project Folder Structure
 
@@ -63,16 +67,25 @@ project-folder/
 └── abi.jpg
 
 What I Learned
+
+
   How to center elements using CSS Flexbox
   How to style images using CSS
   How to add hover animations
   Basic webpage structure using HTML
   How to create and upload projects to GitHub
+
+  
 Future Enhancements
+
+
   Make the design fully responsive
   Add more animations
   Move CSS to an external file
   Add JavaScript for interaction
+
+  
 Conclusion
+
 This project helped me understand the basics of HTML and CSS layout and styling.
 It is a beginner-friendly project and a good foundation for front-end development.
